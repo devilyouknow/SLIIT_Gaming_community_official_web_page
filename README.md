@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-SLIIT Gaming Community - [@Dear__Spider](https://twitter.com/dear__spider) - sliitgc@gmail.com
+SLIIT Gaming Community - [@Dear__Spider](https://twitter.com/dear__spider) - salithak1@gmail.com
 
 Project Link: [https://github.com/kaweendras/SLIIT_Gaming_community_official_web_page](https://github.com/kaweendras/SLIIT_Gaming_community_official_web_page)
 
