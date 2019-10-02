@@ -126,5 +126,5 @@ Project Link: [https://github.com/kaweendras/SLIIT_Gaming_community_official_web
 [issues-shield]: https://img.shields.io/github/issues/kaweendras/SLIIT_Gaming_community_official_web_page.svg?style=flat-square
 [issues-url]: https://github.com/kaweendras/SLIIT_Gaming_community_official_web_page/issues
 [license-shield]: https://img.shields.io/github/license/kaweendras/SLIIT_Gaming_community_official_web_page.svg?style=flat-square
-[license-url]: https://github.com/kaweendras/SLIIT_Gaming_community_official_web_pageblob/master/LICENSE.txt
+[license-url]: https://github.com/kaweendras/SLIIT_Gaming_community_official_web_page/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
