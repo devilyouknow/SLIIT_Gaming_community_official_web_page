@@ -138,3 +138,8 @@ Project Link: [https://github.com/kaweendras/SLIIT_Gaming_community_official_web
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus)
 [6.1]: http://i.imgur.com/0o48UoR.png (github)
+
+[1]: http://www.twitter.com/dear__spider
+[2]: http://www.facebook.com/kaweendra
+[3]: https://plus.google.com/salithak1
+[6]: http://www.github.com/kaweendras
